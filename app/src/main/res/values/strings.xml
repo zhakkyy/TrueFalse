@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="false_toast">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="question_1">Pemenang Liga Champion 2015-2016 adalah Real Madrid</string>
+    <string name="question_2">Juventus merupakan club dari Liga Inggris</string>
+    <string name="question_3">Piala dunia diadakan 4 kali setahun</string>
+    <string name="question_4">Juara Bundes Liga terbanyak dipegang oleh Bayern Munchen</string>
+    <string name="question_5">Indonesia pernah menjuarai piala AFF</string>
+</resources>
+
